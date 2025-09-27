@@ -73,5 +73,4 @@
 - Kaggle Competition: House Prices
 - XGBoost Documentation
 - Scikit-learn User Guide
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
